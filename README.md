@@ -30,4 +30,3 @@ This is a simple React-based URL Shortener application that lets users shorten l
 - **React Router** for page navigation
 - **localStorage** for saving links and logs
 - **Custom logging middleware** for audit trails
-- 
